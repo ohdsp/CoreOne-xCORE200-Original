@@ -5,7 +5,7 @@
 ---
 # README
 ### Disclaimer
-Copyright Paul Janicki 2016
+Copyright Paul Janicki 2017
 
 Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
 
