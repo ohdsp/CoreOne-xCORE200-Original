@@ -26,12 +26,10 @@ Most folder names are self explanatory. Starting from the top level: \
 *CoreOne*
 + *Bill of Materials*  - This contains the bill of materials in CVS, LibreOffice Calc and XML formats
 + *Calculations*  - This contains calculations performed using SMath Studio 
-+ *Datasheets*  - This contains datasheets
-+ *Documenation*  - This contains documenation for using the CoreOne module
++ *Drawings*  - This contains PDF and SVG outputs of schematic and PCB files
 + *Gerbers* - This contains the PCB Gerbers and drill drawings for manufacture, there is also a zip file ready to send to most manufacturers
 + *KiCad* - This contains the original KiCad schematic and PCB design files
-+ *PCB Output* - This contains SVG and PDF outputs of PCB copper layers and assembly drawings
-+ *Schematics* - This contains the PDF schematic drawing
++ *Pick and Place* - This contains the pick and place file for automated placement of PCB components
 
 ### How do I get set up?
 
