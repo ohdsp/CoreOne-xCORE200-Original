@@ -17,7 +17,7 @@ This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLU
 
 This is Open Hardware DSP Platform CoreOne Module. 
 
-This is an XMOS 200 based DSP and mirocontroller PCB design with USB, SPDIF, I2S/TDM, SPI, I2C, and Ethernet connectivity options.
+This is an XMOS 200 based DSP and microcontroller PCB design with USB, SPDIF, I2S/TDM, SPI, I2C, and Ethernet connectivity options.
 
 This repository contains the KiCad design files, manufacturing Gerber/drill files, PDF/drawing files, and relevant documenation for this board.
 
@@ -26,6 +26,7 @@ Most folder names are self explanatory. Starting from the top level: \
 *CoreOne*
 + *Bill of Materials*  - This contains the bill of materials in CVS, LibreOffice Calc and XML formats
 + *Calculations*  - This contains calculations performed using SMath Studio 
++ *Datasheets*  - This contains datasheets
 + *Documenation*  - This contains documenation for using the CoreOne module
 + *Gerbers* - This contains the PCB Gerbers and drill drawings for manufacture, there is also a zip file ready to send to most manufacturers
 + *KiCad* - This contains the original KiCad schematic and PCB design files
